@@ -1,4 +1,4 @@
-# FOML - Group 6 
+# Classification Model Comparison - Wine Dataset
 To begin please install project dependecies by running in your shell:
     
 ```bash
@@ -159,3 +159,7 @@ Project files are in one directory for your convenience, with plots being saved 
 | shared_covariance_model.py        | Shared covariance model code                                                                             |
 | svm.py                            | LinearSVC model code                                                                                     |
 | wine_data.csv                     | Dataset file in csv format                                                                               |
+
+
+## Credits
+This project was developed in a team of 4 during the UCL MSc Computer Science course
